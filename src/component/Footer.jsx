@@ -36,7 +36,7 @@ const Footer = () => {
             {/* Social Icons */}
             <div className="mt-6 flex items-center gap-3">
               <a
-                href="#"
+                href="https://www.facebook.com/hem.bhatta.16"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-gray-700 text-gray-400 transition duration-300 hover:border-sky-400 hover:bg-sky-500 hover:text-white"
                 aria-label="Facebook"
               >
@@ -48,7 +48,7 @@ const Footer = () => {
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-gray-700 text-gray-400 transition duration-300 hover:border-sky-400 hover:bg-sky-500 hover:text-white"
                 aria-label="Instagram"
               >
-                ◎
+                T
               </a>
 
               <a
@@ -64,7 +64,7 @@ const Footer = () => {
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-gray-700 text-gray-400 transition duration-300 hover:border-red-500 hover:bg-red-500 hover:text-white"
                 aria-label="YouTube"
               >
-                ▶
+                In
               </a>
             </div>
           </div>
